@@ -1,6 +1,6 @@
 // ---- Settings ---------------------------------------------------------
 // Where enquiries go. Put your real business email here.
-const CONTACT_EMAIL = "[EMAIL]";
+const CONTACT_EMAIL = "kreova.jm@gmail.com";
 // Optional: a form service endpoint (e.g. Formspree "https://formspree.io/f/xxxx").
 // If set, the form submits there; if empty, it opens the visitor's email app.
 const FORM_ENDPOINT = "";
